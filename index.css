@@ -55,3 +55,26 @@ li {
     border: 3px solid #0078d4; 
 }
 
+.download-section {
+    text-align: center; 
+    margin: 20px 0;
+}
+
+.download-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #47a5f3;
+    color: #fff; /* White text */
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.download-btn:hover {
+    background-color: #005bbb; /* Darker blue when hovered */
+}
+
+
+
+
